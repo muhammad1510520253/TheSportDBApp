@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">TheSportDBApp</string>
+
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="red_card_s">Red Card(s)</string>
+    <string name="yellow_card_s">Yellow Card(s)</string>
+    <string name="goal_keeper">Goalkeeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="previous_match">There is no Previous Match(es)</string>
+    <string name="upcoming_match">There is no Upcoming Match(es)</string>
+    <string name="number">1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="idhome">idHome</string>
+    <string name="idAway">idAway</string>
+    <string name="goalHome">goalHome</string>
+    <string name="goalAway">goalAway</string>
+    <string name="homeTeam">homeTeam</string>
+    <string name="awayTeam">awayTeam</string>
+    <string name="dateMatch">dateMatch</string>
+    <string name="matchId">matchId</string>
+    <string name="about">About</string>
+    <string name="Match">Match</string>
+    <string name="Favorite">Favorite</string>
+    <string name="favoritesMatch">favoritesMatch</string>
+    <string name="Team">Team</string>
+    <string name="team">Team</string>
+    <string name="match">Match</string>
+    <string name="stadium">Stadium</string>
+    <string name="player">Player</string>
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+    <string name="italian_serie_a">Italian Serie A</string>
+    <string name="french_ligue_1">French Ligue 1</string>
+    <string name="german_bundesliga">German Bundesliga</string>
+    <string name="spanish_la_liga">Spanish La Liga</string>
+    <string name="english_premier_league">English Premier League</string>
+    <string name="english_league_championship">English League Championship</string>
+    <string name="idTeam">idTeam</string>
+    <string name="strTeam">strTeam</string>
+    <string name="yearTeam">yearTeam</string>
+    <string name="teamBadge">teamBadge</string>
+    <string name="strStadium">strStadium</string>
+    <string name="stadiumTeam">stadiumTeam</string>
+    <string name="stadiumDescriptionTeam">stadiumDescriptionTeam</string>
+    <string name="strDescription">strDescription</string>
+    <string name="idPlayer">idPlayer</string>
+    <string name="playerImage">playerImage</string>
+    <string name="strPlayer">strPlayer</string>
+    <string name="strPosition">strPosition</string>
+    <string name="strWeight">strWeight</string>
+    <string name="strHeight">strHeight</string>
+    <string name="strDescriptionEN">strDescriptionEN</string>
+    <string name="searchMatch">Search Match</string>
+    <string name="searchTeam">Search Team</string>
+    <string name="teamNotFound">Team not Found</string>
+    <string name="foundMatch">Not Found Match</string>
+    <string name="hintSearchMatch">Search Match...</string>
+    <string name="hintSearchTeam">Search Team...</string>
+    <string name="description">Description</string>
+    <string name="players">Players</string>
+
+
+</resources>

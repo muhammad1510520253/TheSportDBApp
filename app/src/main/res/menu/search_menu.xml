@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/buttonSearch"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:iconifiedByDefault="false"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/buttonAbout"
+        android:icon="@drawable/ic_about"
+        android:title="About"
+        app:iconifiedByDefault="false"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Match"
+        android:icon="@drawable/ic_match"
+        android:title="@string/Match" />
+    <item
+        android:id="@+id/Team"
+        android:icon="@drawable/ic_team"
+        android:title="@string/Team" />
+    <item
+        android:id="@+id/Favorite"
+        android:icon="@drawable/ic_favorites_match"
+        android:title="@string/Favorite" />
+
+
+</menu>
